@@ -1,1 +1,1 @@
-from https://github.com/laywin/kube-apiserver-amd64.git
+from gcr.io/google_containers/kube-apiserver-amd64:v1.6.1
